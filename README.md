@@ -11,13 +11,19 @@ Fórmula: Área = Pi * Raio²
 <li>
 
 Desafio2: Construa um programa que:
-
+<ul>
+<li>
 Armazene o valor 15 em uma variável X
+</li>
+<li>
 Armazene o valor 5 em uma variável Y
+</li>
+<li>
 Calcule a soma, subtração, divisão e multiplicação dos valores de X por Y
+</li>
+<li>
 Escrever os resultados
-
-
-
+</li>
+</ul>
 </li>
 </ol>
