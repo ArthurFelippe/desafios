@@ -155,5 +155,24 @@ Mostre o valor da velocidade.
 </li>
 </ul>
 
+<li>
+Desafio4: Criar o programa onde o usuário vai entrar com o valor da compra:
+<ul>
+<li>
+A taxa de juros pelo atraso do pagamento
+</li>
+<li>
+Quantidade de dias em atraso
+</li>
+<li>
+ Efetuar o cálculo do valor a pagar utilizando a fórmula:
+</li>
+<li>
+<p align="center">valorPagar = Valor * (Taxa / 100) * qtdeDiasAtraso).</p>
+</li>
+</ul>
+</li>
+
+
 
 
