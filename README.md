@@ -67,11 +67,9 @@ Leia um valor em dólares;
 </li>
 
 <li>
-<ul>
 
 Converta esse valor para Real;
 
-</ul>
 </li>
 
 <li>
