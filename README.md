@@ -122,13 +122,6 @@ Desafio5- Elaborar um programa que calcule o salário de um professor: onde o us
 
 </li>
 
-<ul>
-<li>
-
-O usuário deverá entrar com o número de aulas dadas;
-
-</ul>
-</li>
 
 <li>
 
