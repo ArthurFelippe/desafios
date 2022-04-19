@@ -11,6 +11,7 @@ main(){
     scanf("%i", &B);QA = pow (A,2);
     
     QB = pow (B,2);
+
     soma1 = A + B;soma2 = QA + QB;
     printf("A soma dos números A e B são: %i", soma1);
     printf("\n");

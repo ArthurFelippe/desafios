@@ -7,7 +7,9 @@ main(){
     
     printf("Digite a cotação do dolar: ");
     scanf("%f", &cot);printf("Digite o valor em dolar: ");
-    scanf("%f", &dolar);real = cot * dolar;
+    scanf("%f", &dolar);
+
+	real = cot * dolar;
     printf("Valor em real é: %3.0f \n", real);
     
 }
