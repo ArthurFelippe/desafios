@@ -77,19 +77,7 @@ Desafio7: Faça um programa que receba o valor do salário mínimo e o valor do 
 <br>
 Desafio8: Faça um programa que receba o preço por litro de um combustível, a quantidade de quilômetros por litro de um determinado carro, e a distância a percorrer desejada. Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto
 
-
 </ol>
-
-
-
-
-
-
-
-
-
-
-
 
 <h2>Lista 2</h2>
 <ol>
@@ -129,10 +117,40 @@ Desafio8: Faça um algoritmo para ler três variáveis (A,B,C) e apresentar o re
 Desafio9: Construa um algoritmo para pagamento de comissão de vendedores de peças, levando-se em consideração que sua comissão será de 5% do total da venda e que você tem os seguintes dados: Código do vendedor, código da peça, preço unitário da peça e quantidade vendida
 </li>
 
+<h2>Lista 3</h2>
+
+<ol>
+<li>
+Desafio1: Escrever um programa para ler as dimensões de um retângulo (base e altura) pelo teclado. Calcular e escrever a área do retângulo. Area = base * altura.
 <li>
 
+<li>
+Desafio2: Faça um programa que leia a idade de uma pessoa em anos, meses e dias.
+<ul>
+<li>
+Exemplo: 12 anos, 5 meses e 3 dias.
+</li>
+<li>
+Escrever a idade dessa pessoa só em dias.
+</li>
+<li>
+Considerar ano igual a 365 dias e mês igual a 30 dias, mostrar ao final a idade em dias.
+</li>
+</ul>
+
+<li>
+Desafio3: Faça um programa para calcular a velocidade de um objeto.
+<ul>
+<li>
+O usuário irá fornecer para o programa a velocidade inicial (vi), a aceleração (a) e o tempo (t).
+</li>
+<li>
+Utilize a equação: v = vi + a * t.
+</li>
+<li>
+Mostre o valor da velocidade.
+</li>
+</ul>
 
 
 
-
-<h2>Lista 3</h2>
