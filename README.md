@@ -26,9 +26,8 @@ Escrever os resultados
 </li>
 </ul>
 </li>
-</ol>
 
-<li>
+
 Desafio3: Construa um programa que: 
 <ul>
 <li>
