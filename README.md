@@ -92,6 +92,47 @@ Desafio8: Faça um programa que receba o preço por litro de um combustível, a 
 
 
 <h2>Lista 2</h2>
+<ol>
+<li>
+Desafio1: Faça um algoritmo para “Calcular o estoque médio de uma peça”, sendo que ESTOQUE MÉDIO = (QUANTIDADE MÍNIMA + QUANTIDADE MÁXIMA) / 2
+</li>
+
+<li>
+Desafio2: Implemente um algoritmo que leia um número e exiba seu sucessor
+</li>
+
+<li>
+Desafio3: Faça um algoritmo para ler uma variável e apresentar seu quadrado.
+</li>
+
+<li>
+Desafio4: Faça um algoritmo para ler uma variável e apresentar seu cubo
+</li>
+
+<li>
+Desafio 5:Faça um algoritmo para ler uma variável e apresentar sua metade 
+</li>
+
+<li>
+Desafio6: Faça um algoritmo para ler uma variável e apresentar 25% da mesma.
+</li>
+
+<li>
+Desafio7: Faça um algoritmo para ler duas variáveis a apresentar 45% da soma destas.
+</li>
+
+<li>
+Desafio8: Faça um algoritmo para ler três variáveis (A,B,C) e apresentar o resultado da seguinte fórmula: D = A + C - B.
+</li>
+
+<li>
+Desafio9: Construa um algoritmo para pagamento de comissão de vendedores de peças, levando-se em consideração que sua comissão será de 5% do total da venda e que você tem os seguintes dados: Código do vendedor, código da peça, preço unitário da peça e quantidade vendida
+</li>
+
+<li>
+
+
+
 
 
 <h2>Lista 3</h2>
