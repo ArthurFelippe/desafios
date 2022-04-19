@@ -118,22 +118,29 @@ Mostrar os resultados.
 
 <li>
 
-Desafio5- Elaborar um programa que calcule o salário de um professor onde o usuário deverá entrar com o número de aulas dadas, o valor da hora aula.
-<br>
+Desafio5- Elaborar um programa que calcule o salário de um professor: onde o usuário deverá entrar com o número de aulas dadas, o valor da hora aula.
 
+</li>
+
+<ul>
+<li>
+
+O usuário deverá entrar com o número de aulas dadas;
+
+</ul>
 </li>
 
 <li>
 
 Desafio6- Elaborar um programa que calcule o salário de um funcionário onde o usuário deverá entrar com o valor do salário e o percentual de desconto do INSS
-<br>
+
 
 </li>
 
 <li>
 
 Desafio7- Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário
-<br>
+
 
 </li>
 
