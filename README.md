@@ -118,37 +118,112 @@ Mostrar os resultados.
 
 <li>
 
-Desafio5- Elaborar um programa que calcule o salário de um professor: onde o usuário deverá entrar com o número de aulas dadas, o valor da hora aula.
+Desafio5- Elaborar um programa que calcule o salário de um professor:
+ 
+</li>
 
+<ul>
+<li>
+
+O usuário deverá entrar com o número de aulas dadas;
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+o valor da hora aula.
+
+
+</ul>
+</li>
+
+<li>
+
+Desafio6- Elaborar um programa que calcule o salário de um funcionário: 
+
+</li>
+
+<ul>
+<li>
+
+O usuário deverá entrar com o valor do salário;
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+O percentual de desconto do INSS.
+
+</ul>
 </li>
 
 
 <li>
 
-Desafio6- Elaborar um programa que calcule o salário de um funcionário onde o usuário deverá entrar com o valor do salário e o percentual de desconto do INSS
+Desafio7- Faça um programa que receba o valor do salário mínimo: 
 
 
 </li>
 
+
+<ul>
 <li>
 
-Desafio7- Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário
+O valor do salário de um funcionário;
 
+</ul>
+</li>
 
+<ul>
+<li>
+
+Calcule e mostre a quantidade de salários mínimos que ganha esse funcionário.
+
+</ul>
 </li>
 
 <li>
 
-Desafio8- Faça um programa que receba o preço por litro de um combustível, a quantidade de quilômetros por litro de um determinado carro, e a distância a percorrer desejada. Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto
+Desafio8- Faça um programa que receba o preço por litro de um combustível:  
+
+</li>
+
+<ul>
+<li>
+
+A quantidade de quilômetros por litro de um determinado carro;
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+A distância a percorrer desejada;
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+ Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto.
+
+</ul>
+</li>
 
 </li>
 </ol>
 
-
-
 <h2>Lista 2</h2>
+
 <ol>
 <li>
+
 Desafio1: Faça um algoritmo para “Calcular o estoque médio de uma peça”, sendo que ESTOQUE MÉDIO = (QUANTIDADE MÍNIMA + QUANTIDADE MÁXIMA) / 2
 </li>
 
