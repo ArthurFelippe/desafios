@@ -167,9 +167,78 @@ Quantidade de dias em atraso
 <li>
  Efetuar o cálculo do valor a pagar utilizando a fórmula:
 </li>
-<p align="center">valorPagar = Valor * (Taxa / 100) * qtdeDiasAtraso).</p>
+<p align="center">valorPagar = Valor * (Taxa / 100) * qtdeDiasAtraso).</p> <br>
 </ul>
 </li>
+
+<li>
+Desafio5: Construa um programa onde o usuário vai entrar com um número e com a potência desse número.
+</li>
+<ul>
+<li>
+Calcular a potência e no final mostrar o número e o resultado.
+</li>
+<li>
+Exemplo: 3⁴ = 81
+</li>
+
+<li>
+Desafio6: Faça um algoritmo que leia dois números inteiros
+</li>
+<ul>
+<li>
+efetue as operações de adição, subtração, multiplicação e divisão de A por B apresentando ao final os quatro resultados obtidos.
+</ul>
+</li>
+
+<li>
+Desafio7: Escreva um algoritmo para ler o salário mensal e o percentual de reajuste
+</li>
+<ul>
+<li>
+Calcular o salário final do funcionário e escrever o valor do novo salário
+</ul>
+<li>
+
+<li>
+Desafio8: Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias mostre-a expressa apenas em dias (ignore variações de meses como fevereiro).
+</li>
+
+<li>
+Desafio9: Faça um programa que receba o valor do salário mínimo
+</li>
+<ul>
+<li>
+valor do salário de um funcionário
+</ul>
+</li>
+<ul>
+<li>
+calcule e mostre a quantidade de salários mínimos que ganha esse funcionário.
+</ul>
+</li>
+
+<li>
+Desafio10:Faça um programa que receba o preço por litro de um combustível.
+</li>
+<ul>
+<li>
+A quantidade de quilômetros por litro de um determinado carro.
+</ul>
+</li>
+<ul>
+<li>
+A distância a percorrer desejada.
+</ul>
+</li>
+<ul>
+<li>
+Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto.
+</ul>
+</li>
+
+
+
 
 
 
