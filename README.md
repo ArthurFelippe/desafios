@@ -1,10 +1,10 @@
 <h1>Desafios</h1>
-
+<h2>Lista 1</h2>
 <ol>
 <li>
 
-Desafio1: Construa um programa que: Desenvolva a lógica de um programa que efetue o cálculo de área de uma circunferência, apresentando a medida da área calculada. 
-Fórmula: Área = Pi * Raio²
+Desafio1: Construa um programa que: Desenvolva a lógica de um programa que efetue o cálculo de área de uma circunferência, apresentando a medida da área calculada.<br>
+<p align="center">Fórmula: Área = Pi * Raio²</p>
 
 </li>
 
@@ -27,3 +27,8 @@ Escrever os resultados
 </ul>
 </li>
 </ol>
+
+<h2>Lista 2</h2>
+
+
+<h2>Lista 3</h2>
