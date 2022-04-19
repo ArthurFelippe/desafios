@@ -28,6 +28,35 @@ Escrever os resultados
 </li>
 </ol>
 
+Desafio3: Construa um programa que: 
+<ul>
+<li>
+Leia a cotação do dólar
+</li>
+<li>
+Leia um valor em dólares
+</li>
+<li>
+Converta esse valor para Real. Fórmula: Valor_Real = cot*valor_dolar
+</li>
+<li>
+Mostre o resultado
+</li>
+</ul>
+</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
 <h2>Lista 2</h2>
 
 
