@@ -122,7 +122,7 @@ Desafio9: Construa um algoritmo para pagamento de comissão de vendedores de pe�
 <ol>
 <li>
 Desafio1: Escrever um programa para ler as dimensões de um retângulo (base e altura) pelo teclado. Calcular e escrever a área do retângulo. Area = base * altura.
-<li>
+</li>
 
 <li>
 Desafio2: Faça um programa que leia a idade de uma pessoa em anos, meses e dias.
