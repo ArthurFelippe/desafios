@@ -79,6 +79,8 @@ Desafio8: Faça um programa que receba o preço por litro de um combustível, a 
 
 </ol>
 
+
+
 <h2>Lista 2</h2>
 <ol>
 <li>
@@ -116,6 +118,7 @@ Desafio8: Faça um algoritmo para ler três variáveis (A,B,C) e apresentar o re
 <li>
 Desafio9: Construa um algoritmo para pagamento de comissão de vendedores de peças, levando-se em consideração que sua comissão será de 5% do total da venda e que você tem os seguintes dados: Código do vendedor, código da peça, preço unitário da peça e quantidade vendida
 </li>
+</ol>
 
 <h2>Lista 3</h2>
 
