@@ -69,15 +69,15 @@ Leia um valor em dólares;
 <li>
 <ul>
 
- Converta esse valor para Real; <br>
-<p align="center">Fórmula: Valor_Real = cot*valor_dolar</p>
+Converta esse valor para Real;
 
 </ul>
 </li>
 
 <li>
 
-Mostre o resultado.
+Mostre o resultado. <br>
+<p align="center">Fórmula: Valor_Real = cot*valor_dolar</p>
 
 </li>
 </ul>
