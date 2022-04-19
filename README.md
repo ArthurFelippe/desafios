@@ -26,8 +26,10 @@ Escrever os resultados
 </li>
 </ul>
 </li>
+<br>
 
 <li>
+
 Desafio3: Construa um programa que: 
 <ul>
 <li>
@@ -44,6 +46,11 @@ Mostre o resultado
 </li>
 </ul>
 </li>
+
+
+
+
+
 </ol>
 
 
