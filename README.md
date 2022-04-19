@@ -23,26 +23,26 @@ Desafio2: Construa um programa que:
 <ul>
 <li>
 
-Armazene o valor 15 em uma variável X
+Armazene o valor 15 em uma variável X;
 
 </li>
 
 <li>
 
-Armazene o valor 5 em uma variável Y
+Armazene o valor 5 em uma variável Y;
 
 </li>
 </li>
 
 <li>
 
-Calcule a soma, subtração, divisão e multiplicação dos valores de X por Y
+Calcule a soma, subtração, divisão e multiplicação dos valores de X por Y;
 
 </li>
 
 <li>
 
-Escrever os resultados
+Escrever os resultados.
 
 </li>
 </ul>
@@ -56,73 +56,94 @@ Desafio3: Construa um programa que:
 <ul>
 <li>
 
-Leia a cotação do dólar
+Leia a cotação do dólar;
 
 </li>
 
 <li>
 
-Leia um valor em dólares
+Leia um valor em dólares;
 
 </li>
 
 <li>
+<ul>
 
-Converta esse valor para Real. Fórmula: Valor_Real = cot*valor_dolar
+ Converta esse valor para Real; <br>
+<p align="center">Fórmula: Valor_Real = cot*valor_dolar</p>
 
+</ul>
 </li>
 
 <li>
 
-Mostre o resultado
+Mostre o resultado.
 
 </li>
 </ul>
 </li>
 <br>
 
+<li>
+
 Desafio4: Construa um programa que: 
+
+</li>
 
 <ul>
 <li>
 
-Leia 2 números inteiros A e B
+Leia 2 números inteiros A e B;
 
 </li>
 
 <li>
 
-Calcule o quadrado para cada um
+Calcule o quadrado para cada um;
 
 </li>
 
 <li>
 
-Somar os dois
+Somar os dois;
 
 </li>
 
 <li>
 
-Mostrar os resultados
+Mostrar os resultados.
 
 </li>
 </ul>
 </li>
 <br>
 
+<li>
 
 Desafio5: Elaborar um programa que calcule o salário de um professor onde o usuário deverá entrar com o número de aulas dadas, o valor da hora aula.
 <br>
 
+</li>
+
+<li>
+
 Desafio6: Elaborar um programa que calcule o salário de um funcionário onde o usuário deverá entrar com o valor do salário e o percentual de desconto do INSS
 <br>
+
+</li>
+
+<li>
 
 Desafio7: Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário
 <br>
 
+</li>
+
+<li>
+
 Desafio8: Faça um programa que receba o preço por litro de um combustível, a quantidade de quilômetros por litro de um determinado carro, e a distância a percorrer desejada. Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto
 
+</li>
 </ol>
 
 
