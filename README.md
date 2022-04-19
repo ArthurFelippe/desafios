@@ -32,7 +32,6 @@ Escrever os resultados
 <br>
 
 <li>
-
 Desafio3: Construa um programa que: 
 <ul>
 <li>
@@ -49,7 +48,7 @@ Mostre o resultado
 </li>
 </ul>
 </li>
-
+<br>
 Desafio4: Construa um programa que: 
 <ul>
 <li>
@@ -66,21 +65,17 @@ Mostrar os resultados
 </li>
 </ul>
 </li>
-
+<br>
 Desafio5: Elaborar um programa que calcule o salário de um professor onde o usuário deverá entrar com o número de aulas dadas, o valor da hora aula.
 <ul>
 <li>
 </ul>
 </li>
-
-
-
 Desafio6: Elaborar um programa que calcule o salário de um funcionário onde o usuário deverá entrar com o valor do salário e o percentual de desconto do INSS
-
-Desafio7:Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário
-
-
-Desafio8:Faça um programa que receba o preço por litro de um combustível, a quantidade de quilômetros por litro de um determinado carro, e a distância a percorrer desejada. Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto
+<br>
+Desafio7: Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário
+<br>
+Desafio8: Faça um programa que receba o preço por litro de um combustível, a quantidade de quilômetros por litro de um determinado carro, e a distância a percorrer desejada. Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto
 
 
 </ol>
