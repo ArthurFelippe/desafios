@@ -4,7 +4,7 @@
 <ol>
 <li>
 
-Desafio1: Construa um programa que: 
+Desafio1- Construa um programa que: 
 
 <ul>
 <li>
@@ -18,7 +18,7 @@ Desenvolva a lógica de um programa que efetue o cálculo de área de uma circun
 
 <li>
 
-Desafio2: Construa um programa que:
+Desafio2- Construa um programa que:
 
 <ul>
 <li>
@@ -51,7 +51,7 @@ Escrever os resultados.
 
 <li>
 
-Desafio3: Construa um programa que: 
+Desafio3- Construa um programa que: 
 
 <ul>
 <li>
@@ -84,7 +84,7 @@ Mostre o resultado. <br>
 
 <li>
 
-Desafio4: Construa um programa que: 
+Desafio4- Construa um programa que: 
 
 </li>
 
@@ -118,28 +118,28 @@ Mostrar os resultados.
 
 <li>
 
-Desafio5: Elaborar um programa que calcule o salário de um professor onde o usuário deverá entrar com o número de aulas dadas, o valor da hora aula.
+Desafio5- Elaborar um programa que calcule o salário de um professor onde o usuário deverá entrar com o número de aulas dadas, o valor da hora aula.
 <br>
 
 </li>
 
 <li>
 
-Desafio6: Elaborar um programa que calcule o salário de um funcionário onde o usuário deverá entrar com o valor do salário e o percentual de desconto do INSS
+Desafio6- Elaborar um programa que calcule o salário de um funcionário onde o usuário deverá entrar com o valor do salário e o percentual de desconto do INSS
 <br>
 
 </li>
 
 <li>
 
-Desafio7: Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário
+Desafio7- Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse funcionário
 <br>
 
 </li>
 
 <li>
 
-Desafio8: Faça um programa que receba o preço por litro de um combustível, a quantidade de quilômetros por litro de um determinado carro, e a distância a percorrer desejada. Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto
+Desafio8- Faça um programa que receba o preço por litro de um combustível, a quantidade de quilômetros por litro de um determinado carro, e a distância a percorrer desejada. Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto
 
 </li>
 </ol>
