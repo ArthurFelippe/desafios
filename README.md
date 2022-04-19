@@ -133,11 +133,12 @@ O usuário deverá entrar com o número de aulas dadas;
 <ul>
 <li>
 
-o valor da hora aula.
+O valor da hora aula.
 
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -160,6 +161,7 @@ O percentual de desconto do INSS.
 
 </ul>
 </li>
+<br>
 
 
 <li>
@@ -185,6 +187,7 @@ Calcule e mostre a quantidade de salários mínimos que ganha esse funcionário.
 
 </ul>
 </li>
+<br>
 
 <li>
 
