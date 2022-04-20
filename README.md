@@ -342,7 +342,7 @@ Desafio8- Faça um algoritmo para ler três variáveis (A,B,C):
 <li>
 
 Apresentar o resultado; <br>
-<p align="center">fórmula: D = A + C - B.</p>
+<p align="center">Fórmula: D = A + C - B.</p>
 
 </ul>
 </li>
@@ -363,7 +363,7 @@ Levando-se em consideração que sua comissão será de 5% do total da venda e q
 </ol>
 <br>
 
-<h3>Lista 3</h3>
+<h2>Lista 3</h2>
 
 <ol>
 <li>
