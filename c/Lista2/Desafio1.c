@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <math.h>
 
-main(){float EstoqueMedio, QuantMin, QuantMax;
+main(){
+
+	float EstoqueMedio, QuantMin, QuantMax;
 
 printf("Digite a quantidade mínima de peça: ");
 scanf("%f", &QuantMin);

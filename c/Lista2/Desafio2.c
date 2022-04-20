@@ -3,7 +3,8 @@
 #include <math.h>
 
 main(){
-float sucessor, num;
+
+	float sucessor, num;
 
 printf("Digite um número: ");
 scanf("%f", &num);

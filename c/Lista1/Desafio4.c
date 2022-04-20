@@ -16,4 +16,5 @@ main(){
     printf("A soma dos números A e B são: %i", soma1);
     printf("\n");
 printf("A soma dos quadrados dos números de A e B são: %i", soma2);
+
     }

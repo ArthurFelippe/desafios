@@ -3,6 +3,7 @@
 #include <math.h>
 
 main(){
+
     float cot, dolar, real;
     
     printf("Digite a cotação do dolar: ");
