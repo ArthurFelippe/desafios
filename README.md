@@ -251,7 +251,7 @@ Calcular o estoque médio de uma peça;
 
 <li>
 
-Desafio2- Implemente um algoritmo que leia um número:  exiba seu sucessor
+Desafio2- Implemente um algoritmo que leia um número: 
 
 </li>
 
@@ -295,7 +295,7 @@ Apresentar seu cubo.
 <br>
 
 <li>
-Desafio5-Faça um algoritmo para ler uma variável: 
+Desafio5- Faça um algoritmo para ler uma variável: 
 </li>
 
 <ul>
@@ -386,6 +386,7 @@ Calcular e escrever a área do retângulo; <br>
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -396,42 +397,54 @@ Desafio2- Faça um programa que leia a idade de uma pessoa em anos, meses e dias
 
 Exemplo: 12 anos, 5 meses e 3 dias;
 
+</ul>
 </li>
 
+<ul>
 <li>
 
 Escrever a idade dessa pessoa só em dias;
 
+</ul>
 </li>
 
+<ul>
 <li>
 
 Considerar ano igual a 365 dias e mês igual a 30 dias; 
 
+</ul>
+
+<ul>
 <li>
 
 Mostrar ao final a idade em dias.
 
 </li>
 </ul>
+<br>
 
 <li>
 
 Desafio3- Faça um programa para calcular a velocidade de um objeto.
 
-<ul>
 <li>
+<ul>
 
 O usuário irá fornecer para o programa a velocidade inicial (vi), a aceleração (a) e o tempo (t).
 
+</ul>
 </li>
 
 <li>
+<ul>
 
 Mostre o valor da velocidade; <br>
 <p align="center">Utilize a equação: v = vi + a * t.</p>
 
+</ul>
 </li>
+<br>
 
 
 <li>
@@ -443,26 +456,27 @@ Desafio4- Criar o programa onde o usuário vai entrar com o valor da compra:
 
 A taxa de juros pelo atraso do pagamento;
 
+</ul>
 </li>
 
 <li>
+<ul>
 
 Quantidade de dias em atraso;
 
+</ul>
 </li>
+<br>
 
 <li>
+<ul>
 
- Efetuar o cálculo do valor a pagar utilizando a fórmula;
-
-</li>
-
-<li>
-
-<p align="center">valorPagar = Valor * (Taxa / 100) * qtdeDiasAtraso).</p> <br>
+Efetuar o cálculo do valor a pagar utilizando a fórmula; <br>
+<p align="center">valorPagar = Valor * (Taxa / 100) * qtdeDiasAtraso).</p>
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -475,13 +489,18 @@ Desafio5- Construa um programa onde o usuário vai entrar com um número e com a
 
 Calcular a potência e no final mostrar o número e o resultado;
 
+</ul>
 </li>
+<br>
 
 <li>
+<ul>
 
 Exemplo: 3⁴ = 81.
 
+</ul>
 </li>
+<br>
 
 <li>
 
@@ -494,12 +513,16 @@ Desafio6- Faça um algoritmo que leia dois números inteiros:
 
 Efetue as operações de adição, subtração, multiplicação e divisão de A por B;
 
+</ul>
 </li>
+<br>
 
 <li>
+<ul>
 
 Apresentar ao final os quatro resultados obtidos.
 
+</ul>
 </li>
 
 <li>
@@ -511,16 +534,20 @@ Desafio7- Escreva um algoritmo para ler o salário mensal e o percentual de reaj
 <ul>
 <li>
 
-Calcular o salário final do funcionário e escrever o valor do novo salário
+Calcular o salário final do funcionário e escrever o valor do novo salário;
 
+</ul>
 </li>
+<br>
 
 <li>
+<ul>
 
 Escreva o valor do novo salário.
 
-</li>
 </ul>
+</li>
+<br>
 
 <li>
 
@@ -533,8 +560,9 @@ Desafio8- Faça um algoritmo que leia a idade de uma pessoa expressa em anos, me
 
 Mostre-a expressa apenas em dias (ignore variações de meses como fevereiro).
 
-</li>
 </ul>
+</li>
+<br>
 
 <li>
 
@@ -547,14 +575,18 @@ Desafio9- Faça um programa que receba o valor do salário mínimo:
 
 Valor do salário de um funcionário;
 
+<ul>
 </li>
+</br>
 
 <li>
+<ul>
 
 Calcule e mostre a quantidade de salários mínimos que ganha esse funcionário;
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -576,11 +608,13 @@ A distância a percorrer desejada;
 </li>
 
 <li>
+<ul>
 
 Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto.
 
 </ul>
 </li>
+</ol>
 
 
 
