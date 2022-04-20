@@ -234,15 +234,9 @@ Desafio1- Faça um algoritmo para:
 <ul>
 <li>
 
-Calcular o estoque médio de uma peça;
+Calcular o estoque médio de uma peça; <br>
+<p align="center">ESTOQUE MÉDIO = (QUANTIDADE MÍNIMA + QUANTIDADE MÁXIMA) / 2. </p>
 
-</ul>
-</li>
-
-<ul>
-<li>
-
- ESTOQUE MÉDIO = (QUANTIDADE MÍNIMA + QUANTIDADE MÁXIMA) / 2.
 
 </ul>
 </li>
@@ -576,7 +570,7 @@ Desafio9- Faça um programa que receba o valor do salário mínimo:
 
 Valor do salário de um funcionário;
 
-<ul>
+</ul>
 </li>
 </br>
 
@@ -591,7 +585,7 @@ Calcule e mostre a quantidade de salários mínimos que ganha esse funcionário;
 
 <li>
 
-Desafio10-Faça um programa que receba o preço por litro de um combustível:
+Desafio10- Faça um programa que receba o preço por litro de um combustível:
 
 </li>
 
@@ -600,6 +594,7 @@ Desafio10-Faça um programa que receba o preço por litro de um combustível:
 
 A quantidade de quilômetros por litro de um determinado carro;
 
+</ul>
 </li>
 
 <li>
@@ -614,6 +609,7 @@ A distância a percorrer desejada;
 Seu programa deverá exibir quantos litros serão necessários para percorrer esta distância e quanto será gasto.
 
 </ul>
+</li>
 </li>
 </ol>
 
