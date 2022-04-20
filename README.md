@@ -536,6 +536,7 @@ Desafio7- Escreva um algoritmo para ler o salário mensal e o percentual de reaj
 <li>
 
 Calcular o salário final do funcionário;  
+
 </ul>
 </li>
 
@@ -557,7 +558,7 @@ Desafio8- Faça um algoritmo que leia a idade de uma pessoa expressa em anos, me
 <ul>
 <li>
 
-Ignore variações de meses como fevereiro;
+Ignore variações de meses como fevereiro.
 
 </ul>
 </li>
