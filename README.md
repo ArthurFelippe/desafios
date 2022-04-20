@@ -429,7 +429,7 @@ Desafio3- Faça um programa para calcular a velocidade de um objeto.
 <li>
 <ul>
 
-O usuário irá fornecer para o programa a velocidade inicial (vi), a aceleração (a) e o tempo (t).
+O usuário irá fornecer para o programa a velocidade inicial (vi), a aceleração (a) e o tempo (t);
 
 </ul>
 </li>
@@ -455,25 +455,20 @@ Desafio4- Criar o programa onde o usuário vai entrar com o valor da compra:
 
 A taxa de juros pelo atraso do pagamento;
 
-</ul>
 </li>
 
 <li>
-<ul>
 
 Quantidade de dias em atraso;
 
-</ul>
 </li>
 <br>
 
 <li>
-<ul>
 
 Efetuar o cálculo do valor a pagar utilizando a fórmula; <br>
 <p align="center">valorPagar = Valor * (Taxa / 100) * qtdeDiasAtraso).</p>
 
-</ul>
 </li>
 <br>
 
@@ -483,21 +478,17 @@ Desafio5- Construa um programa onde o usuário vai entrar com um número e com a
 
 </li>
 
-<ul>
 <li>
 
 Calcular a potência e no final mostrar o número e o resultado;
 
-</ul>
 </li>
 <br>
 
 <li>
-<ul>
 
 Exemplo: 3⁴ = 81.
 
-</ul>
 </li>
 <br>
 
