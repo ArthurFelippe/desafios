@@ -4,7 +4,7 @@
 
 main(){
 
-float Dias, Meses, Anos, IdadeEmDia;
+	float Dias, Meses, Anos, IdadeEmDia;
 
 printf("Digite anos: ");
 scanf("%f", &Anos);

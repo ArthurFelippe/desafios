@@ -6,14 +6,14 @@ main(){
     
     float SalarioMin, SalarioF, QuantSalMin;
     
-    printf("Digite o valor do salário minimo: ");
-    scanf("%f", &SalarioMin);
+printf("Digite o valor do salário minimo: ");
+scanf("%f", &SalarioMin);
     
-    printf("Digite o valor do salário do funcionário: ");
-    scanf("%f", &SalarioF);
+printf("Digite o valor do salário do funcionário: ");
+scanf("%f", &SalarioF);
     
-    QuantSalMin = SalarioF / SalarioMin;
+QuantSalMin = SalarioF / SalarioMin;
     
-    printf("A quantidade de salário minimo do funcionário é: %2.0f", QuantSalMin);
+printf("A quantidade de salário minimo do funcionário é: %2.0f", QuantSalMin);
     
 }

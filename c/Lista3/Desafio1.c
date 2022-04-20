@@ -4,7 +4,7 @@
 
 main(){
 
-float Area, Base, Altura;
+	float Area, Base, Altura;
 
 printf("Digite a base do retângulo: ");
 scanf("%f", &Base);
@@ -14,4 +14,5 @@ scanf("%f", &Altura);
 
 Area = Base * Altura;
 printf("A area do retângulo é:  %3.0f",Area);
+
 }
