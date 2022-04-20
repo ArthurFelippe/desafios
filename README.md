@@ -255,7 +255,6 @@ Desafio2- Implemente um algoritmo que leia um número:  exiba seu sucessor
 
 <ul>
 <li>
-</ol>
 
 Exiba seu sucessor.
 
@@ -263,7 +262,9 @@ Exiba seu sucessor.
 </li>
 
 <li>
+
 Desafio3- Faça um algoritmo para ler uma variável:
+
 </li>
 
 <ul>
@@ -275,13 +276,15 @@ Apresentar seu quadrado.
 </li>
 
 <li>
+
 Desafio4- Faça um algoritmo para ler uma variável:
+
 </li>
 
 <ul>
 <li>
 
-Apresentar seu cubo
+Apresentar seu cubo.
 
 </ul>
 </li>
@@ -293,13 +296,15 @@ Desafio 5:Faça um algoritmo para ler uma variável:
 <ul>
 <li>
 
-Apresentar sua metade
+Apresentar sua metade.
 
 </ul>
 </li>
 
 <li>
+
 Desafio6: Faça um algoritmo para ler uma variável: 
+
 </li>
 
 <ul>
@@ -311,7 +316,9 @@ Apresentar 25% da mesma.
 </li>
 
 <li>
-Desafio7: Faça um algoritmo para ler duas variáveis: a apresentar 45% da soma destas.
+
+Desafio7: Faça um algoritmo para ler duas variáveis: 
+
 </li>
 
 
@@ -324,7 +331,9 @@ Apresentar 45% da soma destas.
 </li>
 
 <li>
-Desafio8: Faça um algoritmo para ler três variáveis (A,B,C):  fórmula: D = A + C - B.
+
+Desafio8: Faça um algoritmo para ler três variáveis (A,B,C): 
+
 </li>
 
 <ul>
