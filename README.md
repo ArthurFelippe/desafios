@@ -227,39 +227,123 @@ A distância a percorrer desejada;
 <ol>
 <li>
 
-Desafio1: Faça um algoritmo para “Calcular o estoque médio de uma peça”, sendo que ESTOQUE MÉDIO = (QUANTIDADE MÍNIMA + QUANTIDADE MÁXIMA) / 2
+Desafio1- Faça um algoritmo para:  ESTOQUE MÉDIO = (QUANTIDADE MÍNIMA + QUANTIDADE MÁXIMA) / 2
+</li>
+
+<ul>
+<li>
+
+Calcular o estoque médio de uma peça;
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+ ESTOQUE MÉDIO = (QUANTIDADE MÍNIMA + QUANTIDADE MÁXIMA) / 2
+
+</ul>
 </li>
 
 <li>
-Desafio2: Implemente um algoritmo que leia um número e exiba seu sucessor
+Desafio2- Implemente um algoritmo que leia um número:  exiba seu sucessor
+</li>
+
+<ul>
+<li>
+
+Exiba seu sucessor.
+
+</ul>
+</li>
+
+<ul>
+<li>
+
+<li>
+Desafio3- Faça um algoritmo para ler uma variável:
+</li>
+
+<ul>
+<li>
+
+Apresentar seu quadrado.
+
+</ul>
 </li>
 
 <li>
-Desafio3: Faça um algoritmo para ler uma variável e apresentar seu quadrado.
+Desafio4- Faça um algoritmo para ler uma variável:
+</li>
+
+<ul>
+<li>
+
+Apresentar seu cubo
+
+</ul>
 </li>
 
 <li>
-Desafio4: Faça um algoritmo para ler uma variável e apresentar seu cubo
+Desafio 5:Faça um algoritmo para ler uma variável: 
+</li>
+
+<ul>
+<li>
+
+Apresentar sua metade
+
+</ul>
 </li>
 
 <li>
-Desafio 5:Faça um algoritmo para ler uma variável e apresentar sua metade 
+Desafio6: Faça um algoritmo para ler uma variável: 
+</li>
+
+<ul>
+<li>
+
+Apresentar 25% da mesma.
+
+</ul>
 </li>
 
 <li>
-Desafio6: Faça um algoritmo para ler uma variável e apresentar 25% da mesma.
+Desafio7: Faça um algoritmo para ler duas variáveis: a apresentar 45% da soma destas.
+</li>
+
+
+<ul>
+<li>
+
+Apresentar 45% da soma destas.
+
+</ul>
 </li>
 
 <li>
-Desafio7: Faça um algoritmo para ler duas variáveis a apresentar 45% da soma destas.
+Desafio8: Faça um algoritmo para ler três variáveis (A,B,C):  fórmula: D = A + C - B.
+</li>
+
+<ul>
+<li>
+
+Apresentar o resultado; <br>
+<p align="center">fórmula: D = A + C - B.</p>
+
+</ul>
 </li>
 
 <li>
-Desafio8: Faça um algoritmo para ler três variáveis (A,B,C) e apresentar o resultado da seguinte fórmula: D = A + C - B.
-</li>
-
+Desafio9: Construa um algoritmo para pagamento de comissão de vendedores de peças:
+<ul>
 <li>
-Desafio9: Construa um algoritmo para pagamento de comissão de vendedores de peças, levando-se em consideração que sua comissão será de 5% do total da venda e que você tem os seguintes dados: Código do vendedor, código da peça, preço unitário da peça e quantidade vendida
+
+levando-se em consideração que sua comissão será de 5% do total da venda e que você tem os seguintes dados: Código do vendedor, código da peça, preço unitário da peça e quantidade vendida
+
+</ul>
+</li>
 </li>
 </ol>
 
