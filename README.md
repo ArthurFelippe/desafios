@@ -427,20 +427,16 @@ Desafio3- Faça um programa para calcular a velocidade de um objeto.
 </li>
 
 <li>
-<ul>
 
 O usuário irá fornecer para o programa a velocidade inicial (vi), a aceleração (a) e o tempo (t);
 
-</ul>
 </li>
 
 <li>
-<ul>
 
 Mostre o valor da velocidade; <br>
 <p align="center">Utilize a equação: v = vi + a * t.</p>
 
-</ul>
 </li>
 <br>
 
@@ -450,7 +446,6 @@ Desafio4- Criar o programa onde o usuário vai entrar com o valor da compra:
 
 </li>
 
-<ul>
 <li>
 
 A taxa de juros pelo atraso do pagamento;
