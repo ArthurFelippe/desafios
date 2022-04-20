@@ -386,6 +386,8 @@ Calcular e escrever a área do retângulo; <br>
 
 Desafio2- Faça um programa que leia a idade de uma pessoa em anos, meses e dias.
 
+</li>
+
 <ul>
 <li>
 
