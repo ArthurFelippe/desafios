@@ -228,6 +228,7 @@ A distância a percorrer desejada;
 <li>
 
 Desafio1- Faça um algoritmo para:  
+
 </li>
 
 <ul>
@@ -245,6 +246,7 @@ Calcular o estoque médio de uma peça;
 
 </ul>
 </li>
+<br>
 
 
 <li>
@@ -260,6 +262,7 @@ Exiba seu sucessor.
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -274,6 +277,7 @@ Apresentar seu quadrado.
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -288,6 +292,7 @@ Apresentar seu cubo.
 
 </ul>
 </li>
+<br>
 
 <li>
 Desafio 5:Faça um algoritmo para ler uma variável: 
@@ -300,6 +305,7 @@ Apresentar sua metade.
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -314,6 +320,7 @@ Apresentar 25% da mesma.
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -329,6 +336,7 @@ Apresentar 45% da soma destas.
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -344,6 +352,7 @@ Apresentar o resultado; <br>
 
 </ul>
 </li>
+<br>
 
 <li>
 Desafio9: Construa um algoritmo para pagamento de comissão de vendedores de peças:
@@ -356,6 +365,7 @@ levando-se em consideração que sua comissão será de 5% do total da venda e q
 </li>
 </li>
 </ol>
+<br>
 
 <h2>Lista 3</h2>
 
