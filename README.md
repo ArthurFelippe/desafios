@@ -227,7 +227,7 @@ A distância a percorrer desejada;
 <ol>
 <li>
 
-Desafio1- Faça um algoritmo para:  ESTOQUE MÉDIO = (QUANTIDADE MÍNIMA + QUANTIDADE MÁXIMA) / 2
+Desafio1- Faça um algoritmo para:  
 </li>
 
 <ul>
@@ -246,20 +246,20 @@ Calcular o estoque médio de uma peça;
 </ul>
 </li>
 
+<ol>
 <li>
+
 Desafio2- Implemente um algoritmo que leia um número:  exiba seu sucessor
 </li>
 
 <ul>
 <li>
+</ol>
 
 Exiba seu sucessor.
 
 </ul>
 </li>
-
-<ul>
-<li>
 
 <li>
 Desafio3- Faça um algoritmo para ler uma variável:
