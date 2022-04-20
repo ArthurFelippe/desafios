@@ -246,10 +246,11 @@ Calcular o estoque médio de uma peça;
 </ul>
 </li>
 
-<ol>
+
 <li>
 
 Desafio2- Implemente um algoritmo que leia um número:  exiba seu sucessor
+
 </li>
 
 <ul>
