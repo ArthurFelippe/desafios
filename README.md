@@ -466,7 +466,6 @@ Quantidade de dias em atraso;
 
 </ul>
 </li>
-<br>
 
 <li>
 <ul>
@@ -491,7 +490,6 @@ Calcular a potência e no final mostrar o número e o resultado;
 
 </ul>
 </li>
-<br>
 
 <li>
 <ul>
@@ -515,7 +513,6 @@ Efetue as operações de adição, subtração, multiplicação e divisão de A 
 
 </ul>
 </li>
-<br>
 
 <li>
 <ul>
@@ -524,6 +521,7 @@ Apresentar ao final os quatro resultados obtidos.
 
 </ul>
 </li>
+<br>
 
 <li>
 
@@ -538,7 +536,6 @@ Calcular o salário final do funcionário e escrever o valor do novo salário;
 
 </ul>
 </li>
-<br>
 
 <li>
 <ul>
@@ -577,7 +574,6 @@ Valor do salário de um funcionário;
 
 </ul>
 </li>
-</br>
 
 <li>
 <ul>
