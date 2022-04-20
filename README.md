@@ -10,7 +10,7 @@ Desafio1- Construa um programa que:
 <li>
 
 Desenvolva a lógica de um programa que efetue o cálculo de área de uma circunferência, apresentando a medida da área calculada.<br>
-<p align="center">Fórmula: Área = Pi * Raio²</p>
+<p align="center">Fórmula: Área = Pi * Raio².</p>
 
 </ul>
 </li>
@@ -75,7 +75,7 @@ Converta esse valor para Real;
 <li>
 
 Mostre o resultado. <br>
-<p align="center">Fórmula: Valor_Real = cot*valor_dolar</p>
+<p align="center">Fórmula: Valor_Real = cot*valor_dolar.</p>
 
 </li>
 </ul>
@@ -361,7 +361,7 @@ Desafio9- Construa um algoritmo para pagamento de comissão de vendedores de pe�
 <ul>
 <li>
 
-levando-se em consideração que sua comissão será de 5% do total da venda e que você tem os seguintes dados: Código do vendedor, código da peça, preço unitário da peça e quantidade vendida
+Levando-se em consideração que sua comissão será de 5% do total da venda e que você tem os seguintes dados: Código do vendedor, código da peça, preço unitário da peça e quantidade vendida.
 
 </ul>
 </li>
@@ -446,10 +446,11 @@ Mostre o valor da velocidade; <br>
 </li>
 <br>
 
-
 <li>
 
 Desafio4- Criar o programa onde o usuário vai entrar com o valor da compra:
+
+</li>
 
 <ul>
 <li>
