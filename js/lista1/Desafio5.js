@@ -14,7 +14,7 @@ O valor da hora aula.
 
 rl.question('Informe o número de horas aula dada: ', (numeroHorasAula) => {
     rl.question('Informe o valor de hora aula: ', (valorHoraAula) => {
-        let salarioProfessor = numeroHorasAula * valorHoraAula;gi
+        let salarioProfessor = numeroHorasAula * valorHoraAula;
         console.log(`O salário do professor é: ${salarioProfessor}`);
       rl.close();
     });
