@@ -19,7 +19,6 @@ rl.question('Valor do salário: ', (valorSalario) => {
         let salarioFinal = valorSalario - salarioDesconto;*/
         let salarioFinal = valorSalario * (1-(descontoINSS / 100));
 
-
         console.log(`O salário do funcionário é: ${salarioFinal}`);
       rl.close();
     });

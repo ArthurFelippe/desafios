@@ -198,7 +198,7 @@ Desafio8- Faça um programa que receba o preço por litro de um combustível:
 <ul>
 <li>
 
-A quantidade de quilômetros por litro de um determinado carro;
+A quantidade de quilômetros por litro de um determinado carro faz;
 
 </ul>
 </li>
