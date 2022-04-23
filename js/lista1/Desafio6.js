@@ -10,7 +10,6 @@ Desafio6- Elaborar um programa que calcule o salário de um funcionário:
 O usuário deverá entrar com o valor do salário;
 
 O percentual de desconto do INSS.
-
 */
 
 rl.question('Valor do salário: ', (valorSalario) => {

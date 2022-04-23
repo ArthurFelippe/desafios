@@ -4,7 +4,8 @@ const rl = readline.createInterface({
   output: process.stdout
 }); 
 
-/*Desafio8- Faça um programa que receba o preço por litro de um combustível:
+/*
+Desafio8- Faça um programa que receba o preço por litro de um combustível:
 
 A quantidade de quilômetros por litro de um determinado carro;
 
@@ -16,6 +17,7 @@ Seu programa deverá exibir quantos litros serão necessários para percorrer es
 rl.question('O preço do litro de um combustível é: ', (valorLitroCombustivel) => {
     rl.question('A quantidade de quilômetros que o carro faz por litro é: ', (quantidadeKM) => {
         rl.question('Distância percorrida: ', (distanciaPercorrida) => {
+          
       let quantidadeLitros = distanciaPercorrida / quantidadeKM;
       let valorGasto = quantidadeLitros * valorLitroCombustivel;
         

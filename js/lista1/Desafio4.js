@@ -18,9 +18,11 @@ Mostrar os resultados.
  
 rl.question('Informe o valor de A: ', (a) => {
     rl.question('Informe o valor de B: ', (b) => {
+      
       const quadradoA = Math.pow(a,2);
       const quadradoB = Math.pow(b,2);
       const soma = quadradoA + quadradoB;
+      
       console.log(`A soma do quadrado A(${quadradoA}) + quadrado B(${quadradoB}): ${soma}`);
       rl.close();
     });
