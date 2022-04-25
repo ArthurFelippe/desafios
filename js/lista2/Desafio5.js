@@ -11,7 +11,8 @@ Apresentar sua metade
 */
 
 rl.question('Digite um número: ', (numero) => {
-    let metade = numero / 2;
+  
+    let metade = parseInt(numero) / 2;
         
         console.log(`A metade do número: ${numero} é: ${metade}`);
       rl.close();

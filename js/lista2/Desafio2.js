@@ -11,7 +11,8 @@ Exiba seu sucessor.
 */
 
 rl.question('Digite um número: ', (numero) => {
-      let sucessor = numero + 1;
+
+      let sucessor = (parseInt(numero) + 1 );
         
         console.log(`O sucessor do número: ${numero} é: ${sucessor}`);
       rl.close();

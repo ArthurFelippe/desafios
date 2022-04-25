@@ -17,6 +17,7 @@ rl.question('Digite o número: ', (numero) => {
     rl.question('Digite a potência: ', (potencia) => {
 
         let resultado = Math.pow(numero,potencia);
+        
         console.log(`O resultado da operação é: ${resultado}`);
       rl.close();
     });

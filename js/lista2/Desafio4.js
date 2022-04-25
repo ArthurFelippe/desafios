@@ -11,6 +11,7 @@ Apresentar seu cubo.
 */
 
 rl.question('Digite um número: ', (numero) => {
+  
     let cubo = Math.pow(numero,3);
         
         console.log(`O cubo do número: ${numero} é: ${cubo}`);

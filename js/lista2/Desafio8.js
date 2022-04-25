@@ -15,7 +15,8 @@ Fórmula: D = A + C - B.
 rl.question('Digite o valor de A: ', (a) => {
     rl.question('Digite o valor de B: ', (b) => {
         rl.question('Digite o valor de C: ', (c) => {
-    let D = a+c-b;
+          
+    let D = parseInt(a) + parseInt(c) - parseInt(b)
         
         console.log(`O resultado da operação A + C - B é: ${D}`);
       rl.close();

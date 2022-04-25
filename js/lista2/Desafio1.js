@@ -14,11 +14,10 @@ Fórmula: ESTOQUE MÉDIO = (QUANTIDADE MÍNIMA + QUANTIDADE MÁXIMA) / 2.
 
 rl.question('Quantidade Máxima: ', (quantidadeMaxima) => {
     rl.question('Quantidade Mínima: ', (quantidadeMinima) => {
-      let operacao = (quantidadeMinima + quantidadeMaxima);
-      let estoqueMedio = operacao / 2;
-
-        
-        console.log(`O estoque médio de peças é: ${estoqueMedio}`);
+     
+      let operacao = (parseInt(quantidadeMinima) + parseInt (quantidadeMaxima)) / 2 
+     
+        console.log(`O estoque médio de peças é: ${operacao}`);
       rl.close();
     });
   });

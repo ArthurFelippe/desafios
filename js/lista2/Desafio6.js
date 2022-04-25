@@ -11,7 +11,8 @@ Apresentar 25% da mesma.
 */
 
 rl.question('Digite um número: ', (numero) => {
-    let umQuarto = numero * 0.25;
+  
+    let umQuarto = parseInt(numero) * 0.25;
         
         console.log(`25% do número: ${numero} é: ${umQuarto}`);
       rl.close();

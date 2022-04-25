@@ -23,8 +23,9 @@ rl.question('Digite o código do vendedor: ', (codigoVendedor) => {
     rl.question('Digite o código da peça: ', (codigoPeca) => {
         rl.question('Digite o preço unitário da peça: ', (precoUnitarioPeca) => {
             rl.question('Digite a quantidade vendida: ', (quantidadeVendida) => {
-    let PxQ = precoUnitarioPeca * quantidadeVendida;
-    let comissao = PxQ * 5 / 100;
+              
+    let PxQ =  parseFloat(precoUnitarioPeca) * parseInt(quantidadeVendida);
+    let comissao = PxQ * (5 / 100);
         
         console.log(`A comissão que o vendedor ganha é: ${comissao}`);
       rl.close();

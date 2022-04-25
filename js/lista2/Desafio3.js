@@ -11,6 +11,7 @@ Apresentar seu quadrado.
 */
 
 rl.question('Digite um número: ', (numero) => {
+  
     let quadrado = Math.pow(numero,2);
         
         console.log(`O quadrado do número: ${numero} é: ${quadrado}`);

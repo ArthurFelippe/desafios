@@ -14,6 +14,7 @@ Fórmula: Area = base * altura.
 
 rl.question('Digite o valor da base: ', (base) => {
     rl.question('Digite o valor da altura: ', (altura) => {
+      
       let area = base * altura;
      
         console.log(`O valor da área do retângulo é: ${area}`);
