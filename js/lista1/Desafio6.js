@@ -14,6 +14,7 @@ O percentual de desconto do INSS.
 
 rl.question('Valor do salário: ', (valorSalario) => {
     rl.question('Valor de desconto do INSS: ', (descontoINSS) => {
+      
         /*let salarioDesconto = valorSalario * descontoINSS / 100;
         let salarioFinal = valorSalario - salarioDesconto;*/
         let salarioFinal = valorSalario * (1-(descontoINSS / 100));

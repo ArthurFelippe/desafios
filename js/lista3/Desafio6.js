@@ -10,7 +10,6 @@ Desafio6- Faça um algoritmo que leia dois números inteiros e efetue as operaç
 Apresentar ao final os quatro resultados obtidos.
 */
 
-
 rl.question('Digite o valor de A: ', (a) => {
     rl.question('Digite o valor de B: ', (b) => {
 

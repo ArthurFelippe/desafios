@@ -12,7 +12,6 @@ Calcular o salário final do funcionário;
 Escrever o valor do novo salário.
 */
 
-
 rl.question('Digite o valor do salário mensal: ', (salarioMensal) => {
     rl.question('Digite o valor do reajuste: ', (reajuste) => {
 
