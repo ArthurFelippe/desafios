@@ -16,7 +16,7 @@ rl.question('Digite o valor do salário mensal: ', (salarioMensal) => {
     rl.question('Digite o valor do reajuste: ', (reajuste) => {
 
 let salarioFinal = salarioMensal;
-let novoSalario = salarioFinal + salarioMensal;
+let novoSalario = parseInt(salarioFinal) + parseInt(reajuste);
     
         console.log(`O salário do funcionário é: ${salarioFinal} e o novo salário é: ${novoSalario}`);
       rl.close();

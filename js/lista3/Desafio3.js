@@ -18,7 +18,8 @@ rl.question('Digite o valor da velocidade inicial: ', (vi) => {
     rl.question('Digite o valor da aceleração: ', (a) => {
         rl.question('Digite o valor do tempo: ', (t) => {
             
-        let v = (vi + a) * t;
+          
+        let v = (parseInt(vi) + parseInt(a)) * parseInt(t);
 
         console.log(`A velocidade é: ${v}`);
       rl.close();
