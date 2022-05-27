@@ -5,7 +5,6 @@ const rl = readline.createInterface({
 }); 
 
 /*
-
 Desafio9- Construa um algoritmo para pagamento de comissão de vendedores de peças:
 
 Levando-se em consideração que sua comissão será de 5% do total da venda e que você tem os seguintes dados:

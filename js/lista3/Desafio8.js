@@ -7,7 +7,8 @@ const rl = readline.createInterface({
 /*
 Desafio8- Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias mostre-a expressa apenas em dias:
 
-Ignore variações de meses como fevereiro.*/
+Ignore variações de meses como fevereiro.
+*/
 
 rl.question('Digite a quantidade de anos: ', (anos) => {
     rl.question('Digite a quantidade de meses: ', (meses) => {

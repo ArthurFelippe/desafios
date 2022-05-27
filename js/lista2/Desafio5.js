@@ -7,7 +7,7 @@ const rl = readline.createInterface({
 /*
 Desafio5- Faça um algoritmo para ler uma variável:
 
-Apresentar sua metade
+Apresentar sua metade.
 */
 
 rl.question('Digite um número: ', (numero) => {
